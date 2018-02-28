@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RollDicer</string>
+    <string name="roll">roll</string>
 </resources>
